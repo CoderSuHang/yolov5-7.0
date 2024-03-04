@@ -1,0 +1,8 @@
+hand
+palm
+back
+profile
+front
+catch
+hold
+hodl
